@@ -3,7 +3,6 @@ from setuptools import setup, find_packages
 setup(
     name="adventure-x-shit",
     version="0.114.514",
-    author="RinLit",
     packages=find_packages(),
     install_requires=[
         # 依赖项列表（比厕纸还必要）
