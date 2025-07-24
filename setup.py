@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="adventure-x-shit",
+    name="adventure-x-shitventure",
     version="0.114.514",
     packages=find_packages(),
     install_requires=[
